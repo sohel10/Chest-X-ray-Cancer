@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sohel/Downloads/Ai_health/Chest-X-ray-Cancer/mlruns/0/0472215590234782968ebc2db141f3e2/artifacts
+end_time: 1764391864312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0472215590234782968ebc2db141f3e2
+run_name: valuable-skink-344
+run_uuid: 0472215590234782968ebc2db141f3e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764391859284
+status: 4
+tags: []
+user_id: sohel

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sohel/Downloads/Ai_health/Chest-X-ray-Cancer/mlruns/0/3eea74eeb29b4edb970f975b9c35e585/artifacts
+end_time: 1764391424579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eea74eeb29b4edb970f975b9c35e585
+run_name: agreeable-hog-404
+run_uuid: 3eea74eeb29b4edb970f975b9c35e585
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764391417759
+status: 4
+tags: []
+user_id: sohel
